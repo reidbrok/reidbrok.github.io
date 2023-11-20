@@ -1,0 +1,13 @@
+---
+title: "Yushu Zou"
+about: 
+  template: jolla
+  image: /image/profile.jpg
+---
+
+Hi there 👋 I’m Yushu Zou
+
+
+👀 I’m interested in Biostatistics and Applied Statistics.
+
+🌱 I’m currently studying full-time at the University of Toronto, MSc Biostatistics

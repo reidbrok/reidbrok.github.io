@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yushu Zou"
+  site-url: "https://reidbrok.github.io/"
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "Yushu Zou, University of Toronto @ 2023"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: about.qmd
+        text: Teaching
+      - href: blog.qmd
+        text: Blog
+      - text: "CV"
+        href: document/Resume.pdf
+      - icon: github
+        href: https://github.com/reidbrok
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yushu-zou/
+
+format:
+  html:
+    theme: LUX
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto

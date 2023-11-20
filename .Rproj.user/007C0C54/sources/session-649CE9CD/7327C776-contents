@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: Yushu Zou
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "Yushu Zou, University of Toronto @ 2023"
+  navbar:
+    background: primary
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "CV"
+        file: /document/Resume.pdf
+      - icon: linkedin
+        text: Linkedin
+        href: https://www.linkedin.com/in/yushu-zou/
+      - icon: github
+        text: Github
+        href: https://github.com/reidbrok
+format:
+  html:
+    theme: LUX
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute: 
+  freeze: auto
