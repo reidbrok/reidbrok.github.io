@@ -2,7 +2,7 @@
 title: "Yushu Zou"
 about: 
   template: jolla
-  image: /image/profile.jpg
+  image: /image/yushu.jpg
 ---
 
 Hi there 👋 I'm Yushu Zou
