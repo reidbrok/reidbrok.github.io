@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "Teaching",
     "section": "",
-    "text": "2022 Fall\n\n\n2023 Fall\n\n\n2023 Winter"
+    "text": "2022 Fall\nSTA130\n\n\n2023 Fall\nSTA130\nSTAB52\nSTAC32\n\n\n2024 Spring\nSTA238"
   },
   {
     "objectID": "blog.html",
@@ -19,5 +19,12 @@
     "title": "Yushu Zou",
     "section": "",
     "text": "My first post with R\n\n\n\n\n\n\n\nR code\n\n\n\n\nI don’t know what to put it here\n\n\n\n\n\n\nNov 20, 2023\n\n\nYushu\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "R package\nClickTEST [https://github.com/reidbrok/ClickTEST]"
   }
 ]
