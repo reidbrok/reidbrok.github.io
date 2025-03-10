@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Yushu Zou",
     "section": "",
-    "text": "Hi there 👋 I’m Yushu Zou\n👀 I’m interested in Biostatistics and Applied Statistics.\n🌱 I’m currently studying full-time at the University of Toronto, MSc Biostatistics"
+    "text": "Hi there 👋 I’m Yushu Zou\n👀 I’m interested in Biostatistics and Applied Statistics.\n🌱 I’m currently working as research analyst at Public Health Ontario, and as research assistant at University of Toronto, Medical Department."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Teaching",
     "section": "",
-    "text": "2022 Fall\nSTA130\n\n\n2023 Fall\nSTA130\nSTAB52\nSTAC32\n\n\n2024 Spring\nSTA238"
+    "text": "2022 Fall\nUniversity of Toronto St.George STA130\n\n\n2023 Fall\nUniversity of Toronto St.George STA130\nUniversity of Toronto Scarborough STAB52\nUniversity of Toronto Scarborough STAC32\n\n\n2024 Spring\nUniversity of Toronto St.George STA238\nUniversity of Toronto Scarborough Stats and Math Helping Center\n\n\n2024 Fall\nUniversity of Toronto St.George Sid Smith Statistics Helping Center\nUniversity of Toronto St.George STA130"
   },
   {
     "objectID": "blog.html",
@@ -25,6 +25,6 @@
     "href": "research.html",
     "title": "research",
     "section": "",
-    "text": "R package\nClickTEST [https://github.com/reidbrok/ClickTEST]\nAimed to provide the hypothesis test as well as correlation calculation for the data frame, the function inside will autotest all the assumptions for the test, and return multiple dataframe as the test result."
+    "text": "Heat Effect on Mortality\nConducting a time series analysis on the effect of heat on mortality in the general population.\n\n\nHeat Effect on Risk Groups\nConducting a case crossover analysis on the effect of heat on mortality among specific risk groups.\n\n\nSensitivity Analysis in Longitudinal Data\nDeveloped a parametric Bayesian Sensitivity Analysis approach to quantify the impact of time-varying unmeasured confounding on estimating the effect of time-varying treatment.\n\n\nR package\nClickTEST [https://github.com/reidbrok/ClickTEST]\nAimed to provide the hypothesis test as well as correlation calculation for the data frame, the function inside will autotest all the assumptions for the test, and return multiple dataframe as the test result."
   }
 ]
