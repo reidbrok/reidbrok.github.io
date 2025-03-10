@@ -2,15 +2,21 @@
 title: "research"
 ---
 
-# Heat Effect on Mortality
+# Enviroment and Ocupational Study
+
+Heat Effect on Mortality
 
 Conducting a time series analysis on the effect of heat on mortality in the general population.
 
-# Heat Effect on Risk Groups
+Heat Effect on Risk Groups
 
 Conducting a case crossover analysis on the effect of heat on mortality among specific risk groups.
 
-# Sensitivity Analysis in Longitudinal Data
+# Machine Learning 
+
+Developing a novel Machine Learning-Augmented Model Averaging (MLAMA) framework
+
+# Sensitivity Analysis 
 
 Developed a parametric Bayesian Sensitivity Analysis approach to quantify the impact of time-varying unmeasured confounding on estimating the effect of time-varying treatment.
 
