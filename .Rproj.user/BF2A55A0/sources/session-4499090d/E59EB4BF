@@ -3,7 +3,7 @@
     "path": "E:/reidbrok.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "694899802",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1702363891951.0,
@@ -18,14 +18,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "311:0"
+        "rmdVisualModeLocation": "321:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1741575481,
+    "lastKnownWriteTime": 1741576125,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1741575481401,
+    "last_content_update": 1741576125386,
     "read_only": false,
     "read_only_alternatives": []
 }
