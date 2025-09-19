@@ -2,23 +2,23 @@
 title: "research"
 ---
 
+# Sensitivity Analysis  -- Master Thesis
+
+Developed a parametric Bayesian Sensitivity Analysis approach to quantify the impact of time-varying unmeasured confounding on estimating the effect of time-varying treatment.
+
 # Enviroment and Occupational Study
 
 ### Heat Effect on Mortality
 
-Conducting a time series analysis on the effect of heat on mortality in the general population.
+Conducting a time series analysis on the effect of heat on mortality in the general population. 
 
 ### Heat Effect on Risk Groups
 
-Conducting a case crossover analysis on the effect of heat on mortality among specific risk groups.
+Conducting a case crossover analysis on the effect of heat on mortality among specific volunrable population.
 
 # Machine Learning 
 
 Developing a novel Machine Learning-Augmented Model Averaging (MLAMA) framework
-
-# Sensitivity Analysis 
-
-Developed a parametric Bayesian Sensitivity Analysis approach to quantify the impact of time-varying unmeasured confounding on estimating the effect of time-varying treatment.
 
 # R package
 

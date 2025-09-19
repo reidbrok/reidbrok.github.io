@@ -1,8 +1,0 @@
----
-title: "My first post with R"
-description: "I don't know what to put it here"
-author: "Yushu"
-date: "11/20/2023"
-categories:
-  - R code
----
